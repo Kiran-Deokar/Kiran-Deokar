@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Deokar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="coding" width="400px" src="[https://www.bing.com/images/search?view=detailV2&ccid=VON9gHTr&id=747DF8D95E85CE2CC04F281CB6211E2B48C97D7D&thid=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&exph=428&expw=680&q=animated+coding+gif&simid=607995081269866125&FORM=IRPRST&ck=E1845CDFC81102F61EF20CC425518278&selectedIndex=19&ajaxhist=0&ajaxserp=0](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-deokar&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-deokar" /> </p>
 
 - 🔭 I’m currently working on **Campus Recruitment Services**
@@ -13,6 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kiran deokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran deokar" height="30" width="40" /></a>
+<a href="https://fb.com/kiran.deokar.921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiran.deokar.921" height="30" width="40" /></a>
+<a href="https://instagram.com/kiiran_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiiran_123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
