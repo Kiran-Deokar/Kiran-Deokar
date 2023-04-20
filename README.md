@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Kiran-Deokar/Kiran-Deokar/blob/main/Technology-Image-HD.jpg" height="200px" width="100%" />
+<img src="https://github.com/Kiran-Deokar/Kiran-Deokar/blob/main/Technology-Image-HD.jpg" height="100%" width="100%" />
 <h1 align="center">Hi 👋, I'm Kiran Deokar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
